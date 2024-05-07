@@ -6,5 +6,5 @@ Traing materials:
 
 Autodock tutorials:
 
-1.https://dasher.wustl.edu/chem478/software/autodock-tutorial.pdf 
+1. https://dasher.wustl.edu/chem478/software/autodock-tutorial.pdf 
 2. https://autodock.scripps.edu/how-to-add-new-atom-types-to-the-autodock-force-field/ ### update grid or dock parameter file 
